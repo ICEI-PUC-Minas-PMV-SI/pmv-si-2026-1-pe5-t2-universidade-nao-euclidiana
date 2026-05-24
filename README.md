@@ -6,18 +6,24 @@
 
 `Eixo: 5`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+TEMA: Faculdade
+
+O nosso projeto de infraestrutura de redes será a proposta para um projeto de redes para
+uma universidade privada fictícia composta por uma matriz e dois campi menores
+localizados em cidades próximas.
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
-* Nome completo do aluno 5
+* Gabriel Eger
+* João Paulo L. Cançado
+* Mariana C. S. Ribeiro
+* Nikolas M. de Oliveira
+* Raphael Henrique C. Faria
+* Ricardo G. Nogueira
+* Vitor C. de O. e Costa
 
 ## Orientador
 
-* Nome completo do professor 1
+* Alexandre Teixeira
 
 
