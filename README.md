@@ -12,6 +12,11 @@ O nosso projeto de infraestrutura de redes será a proposta para um projeto de r
 uma universidade privada fictícia composta por uma matriz e dois campi menores
 localizados em cidades próximas.
 
+Universidade Não-Euclidiana de Miskatonic (UNEM)
+
+Composta pelo campus matriz Arkham e pelos campi R’lyeh e Carcosa, a 45 km e 15 km de
+distância da matriz, respectivamente.
+
 ## Integrantes
 
 * Gabriel Eger
